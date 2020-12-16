@@ -1,0 +1,18 @@
+img {
+    max-width:55%;
+    height:auto;
+    border-radius: 50%;
+}
+
+.center_image {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.center_text {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    align-items: center;
+}
